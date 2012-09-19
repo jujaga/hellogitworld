@@ -16,6 +16,3 @@ orange
 zoom
 dev test
 zulu
-second test
-ketchup
-banana
