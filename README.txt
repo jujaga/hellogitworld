@@ -14,4 +14,3 @@ This demo also includes an image with changes on a branch for examination of ima
 
 zoom
 dev test
-zulu
